@@ -19,17 +19,17 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "M𝚒ꪊᛕ𝚒 🅱🅾🆃",
-    "PREFIX": "/",
-    "SAKIBIN": [
-        "100065445284007"
+    "BOTNAME": "LELOUCH",
+    "PREFIX": "!",
+    "LELOUCH": [
+        "100027279883548"
     ],
     "GOD": [
-        "100065445284007"
+        "100027279883548"
         
     ],
     "ADMINBOT": [
-        "100065445284007",
+        "100027279883548",
         "100088425487809",
         "61567227627381",
         "100089655642771",
@@ -59,9 +59,9 @@
         }
     },
     "DESIGN": {
-        "Title": "SAKIBIN",
+        "Title": "LELOUCH",
         "Theme": "Hacker",
-        "Admin": "SAKIBIN",
+        "Admin": "LELOUCH",
         "Setup": {
             "Title": "Design your own custom terminal Titlebar for the title and must contain no numbers",
             "Theme": "Customize your console effortlessly with various theme colors. Explore Aqua, Fiery, Blue, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, and Hacker themes to enhance your terminal logs."
